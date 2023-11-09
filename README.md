@@ -1,3 +1,9 @@
+
+
+![Todo](https://github.com/aish2709/React-Todo-WebApp/assets/57962329/c6cf8819-0806-4630-b576-b367aba8371c)
+
+In this Todo app a user can add a Todo task and delete it when done.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
